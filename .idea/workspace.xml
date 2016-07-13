@@ -31,11 +31,31 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="nv-icons.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/assets/stylesheets/rails_admin/themes/novomos/nv-icons.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nv-icons-variables.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/assets/stylesheets/rails_admin/themes/novomos/nv-icons-variables.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="theming.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vendor/assets/stylesheets/rails_admin/themes/novomos/theming.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.875">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="17" />
+            <state vertical-scroll-proportion="-6.25">
+              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -58,6 +78,8 @@
       <list>
         <option value="$PROJECT_DIR$/rails_admin_novomos.gemspec" />
         <option value="$PROJECT_DIR$/vendor/assets/stylesheets/rails_admin/themes/novomos/theming.scss" />
+        <option value="$PROJECT_DIR$/vendor/assets/stylesheets/rails_admin/themes/novomos/nv-icons.scss" />
+        <option value="$PROJECT_DIR$/vendor/assets/stylesheets/rails_admin/themes/novomos/nv-icons-variables.scss" />
         <option value="$PROJECT_DIR$/lib/rails_admin_novomos/version.rb" />
       </list>
     </option>
@@ -274,6 +296,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vendor/assets/stylesheets/rails_admin/themes/novomos" />
       <recent name="$PROJECT_DIR$/vendor/assets/fonts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -492,8 +515,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/assets/stylesheets/rails_admin/themes/novomos/theming.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.875">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="17" />
+        <state vertical-scroll-proportion="-6.25">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/assets/stylesheets/rails_admin/themes/novomos/nv-icons.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/assets/stylesheets/rails_admin/themes/novomos/nv-icons-variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
           <folding />
         </state>
       </provider>

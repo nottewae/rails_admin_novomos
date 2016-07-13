@@ -1,0 +1,274 @@
+@import "nv-icons-variables";
+
+@font-face {
+  font-family: 'nv-icons';
+  src:    asset-url("#{$icomoon-font-path}/nv-icons.eot");
+  src:    asset-url('#{$icomoon-font-path}/nv-icons.eot') format('embedded-opentype'),
+  asset-url('#{$icomoon-font-path}/nv-icons.ttf') format('truetype'),
+  asset-url('#{$icomoon-font-path}/nv-icons.woff') format('woff'),
+  asset-url('#{$icomoon-font-path}/nv-icons.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+[class^="nv-i-"], [class*=" nv-i-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'nv-icons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/*PARSING_START*/
+
+
+.nv-i-bagetnye_24px {
+  &:before {
+    content: $nv-i-bagetnye_24px;
+  }
+}
+.nv-i-tovary_dla_doma_24px {
+  &:before {
+    content: $nv-i-tovary_dla_doma_24px;
+  }
+}
+.nv-i-audit_24px {
+  &:before {
+    content: $nv-i-audit_24px;
+  }
+}
+.nv-i-banky_24px {
+  &:before {
+    content: $nv-i-banky_24px;
+  }
+}
+.nv-i-byt_uslugi_24px {
+  &:before {
+    content: $nv-i-byt_uslugi_24px;
+  }
+}
+.nv-i-el_sigarety_24px {
+  &:before {
+    content: $nv-i-el_sigarety_24px;
+  }
+}
+.nv-i-electrotransport_24px {
+  &:before {
+    content: $nv-i-electrotransport_24px;
+  }
+}
+.nv-i-moyka_shiny_24px {
+  &:before {
+    content: $nv-i-moyka_shiny_24px;
+  }
+}
+.nv-i-radiotovary_electronika_24px {
+  &:before {
+    content: $nv-i-radiotovary_electronika_24px;
+  }
+}
+.nv-i-shtory_24px {
+  &:before {
+    content: $nv-i-shtory_24px;
+  }
+}
+.nv-i-web_progery_24px {
+  &:before {
+    content: $nv-i-web_progery_24px;
+  }
+}
+.nv-i-doll_ {
+  &:before {
+    content: $nv-i-doll_;
+  }
+}
+.nv-i-dislike {
+  &:before {
+    content: $nv-i-dislike;
+  }
+}
+.nv-i-like {
+  &:before {
+    content: $nv-i-like;
+  }
+}
+.nv-i-star {
+  &:before {
+    content: $nv-i-star;
+  }
+}
+.nv-i-video {
+  &:before {
+    content: $nv-i-video;
+  }
+}
+.nv-i-action_24px {
+  &:before {
+    content: $nv-i-action_24px;
+  }
+}
+.nv-i-bouling_24px {
+  &:before {
+    content: $nv-i-bouling_24px;
+  }
+}
+.nv-i-computer_24px {
+  &:before {
+    content: $nv-i-computer_24px;
+  }
+}
+.nv-i-flower_24px {
+  &:before {
+    content: $nv-i-flower_24px;
+  }
+}
+.nv-i-juvilirka_24px {
+  &:before {
+    content: $nv-i-juvilirka_24px;
+  }
+}
+.nv-i-kids_24px {
+  &:before {
+    content: $nv-i-Kids_24px;
+  }
+}
+.nv-i-medic_24px {
+  &:before {
+    content: $nv-i-medic_24px;
+  }
+}
+.nv-i-mobil_salony_24px {
+  &:before {
+    content: $nv-i-mobil_salony_24px;
+  }
+}
+.nv-i-obuv_24px {
+  &:before {
+    content: $nv-i-obuv_24px;
+  }
+}
+.nv-i-odezjda_24px {
+  &:before {
+    content: $nv-i-odezjda_24px;
+  }
+}
+.nv-i-otoplenie_djlf_24px {
+  &:before {
+    content: $nv-i-otoplenie_djlf_24px;
+  }
+}
+.nv-i-podarki_24px {
+  &:before {
+    content: $nv-i-podarki_24px;
+  }
+}
+.nv-i-posuda_24px {
+  &:before {
+    content: $nv-i-posuda_24px;
+  }
+}
+.nv-i-produkty_24px {
+  &:before {
+    content: $nv-i-produkty_24px;
+  }
+}
+.nv-i-santehnika_24px {
+  &:before {
+    content: $nv-i-santehnika_24px;
+  }
+}
+.nv-i-sauny_24px {
+  &:before {
+    content: $nv-i-sauny_24px;
+  }
+}
+.nv-i-selhoz_24px {
+  &:before {
+    content: $nv-i-selhoz_24px;
+  }
+}
+.nv-i-spetz_odezjda_24px {
+  &:before {
+    content: $nv-i-spetz_odezjda_24px;
+  }
+}
+.nv-i-sport_tovary_24px {
+  &:before {
+    content: $nv-i-sport_tovary_24px;
+  }
+}
+.nv-i-stroymat_24px {
+  &:before {
+    content: $nv-i-stroymat_24px;
+  }
+}
+.nv-i-down_ico {
+  &:before {
+    content: $nv-i-down_ico;
+  }
+}
+.nv-i-left_ico {
+  &:before {
+    content: $nv-i-left_ico;
+  }
+}
+.nv-i-right_ico {
+  &:before {
+    content: $nv-i-right_ico;
+  }
+}
+.nv-i-up_ico {
+  &:before {
+    content: $nv-i-up_ico;
+  }
+}
+.nv-i-adres_ico_00 {
+  &:before {
+    content: $nv-i-adres_ico_00;
+  }
+}
+.nv-i-adres_ico {
+  &:before {
+    content: $nv-i-adres_ico;
+  }
+}
+.nv-i-email_ico_00 {
+  &:before {
+    content: $nv-i-email_ico_00;
+  }
+}
+.nv-i-email_ico {
+  &:before {
+    content: $nv-i-email_ico;
+  }
+}
+.nv-i-phone_ico_00 {
+  &:before {
+    content: $nv-i-phone_ico_00;
+  }
+}
+.nv-i-phone_ico {
+  &:before {
+    content: $nv-i-phone_ico;
+  }
+}
+.nv-i-time_ico_00 {
+  &:before {
+    content: $nv-i-time_ico_00;
+  }
+}
+.nv-i-time_ico {
+  &:before {
+    content: $nv-i-time_ico;
+  }
+}
+
+
+
+/*PARSING_END*/
